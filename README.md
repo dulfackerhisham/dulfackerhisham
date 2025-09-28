@@ -1,3 +1,5 @@
+<img src="https://github.com/dulfackerhisham/dulfackerhisham/blob/main/img/codePass.png" alt="Banner of a developer">
+
 ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=dulfackerhisham&color=brightgreen&style=plastic&abbreviated=true&base=250)
 
 <h1 align="center">
